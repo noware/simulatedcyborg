@@ -1,4 +1,4 @@
 simulatedcyborg
 ===============
 
-simulated aggrocyborg
+simulated cyborg
